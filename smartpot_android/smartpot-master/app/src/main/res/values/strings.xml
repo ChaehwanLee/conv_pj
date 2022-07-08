@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">내 식물 내가 살려</string>
+    <string name="firebase_notification_channel_id">chk</string>
+</resources>

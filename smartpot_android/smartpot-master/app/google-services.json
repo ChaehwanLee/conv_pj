@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363660467341",
+    "project_id": "smartpot-7ccf0",
+    "storage_bucket": "smartpot-7ccf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363660467341:android:93f901d99d9d38d33716c4",
+        "android_client_info": {
+          "package_name": "com.test.smartpot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363660467341-el6snkhlbkcm1emggdnj2sulmjc3ji3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARsbKk12APD0nNlPnLZS7RAcSzvOzyACo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363660467341-el6snkhlbkcm1emggdnj2sulmjc3ji3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
